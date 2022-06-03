@@ -1,7 +1,7 @@
 {
   "name": "lvargascol-random-messages",
   "version": "1.0.0",
-  "description": "Genera mensajes de forma aleatoria",
+  "description": "Whenever I start a new project, I don't know what to write for the first commit.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/lvargascol/random-messages#readme",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true
 }
